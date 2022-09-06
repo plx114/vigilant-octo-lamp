@@ -1,0 +1,13 @@
+C:\Users\Рахитос\Desktop\GenshinConsole\obj\Debug\netcoreapp3.1\GenshinConsole.csprojAssemblyReference.cache
+C:\Users\Рахитос\Desktop\GenshinConsole\obj\Debug\netcoreapp3.1\GenshinConsole.AssemblyInfoInputs.cache
+C:\Users\Рахитос\Desktop\GenshinConsole\obj\Debug\netcoreapp3.1\GenshinConsole.AssemblyInfo.cs
+C:\Users\Рахитос\Desktop\GenshinConsole\obj\Debug\netcoreapp3.1\GenshinConsole.csproj.CoreCompileInputs.cache
+C:\Users\Рахитос\Desktop\GenshinConsole\bin\Debug\netcoreapp3.1\GenshinConsole.exe
+C:\Users\Рахитос\Desktop\GenshinConsole\bin\Debug\netcoreapp3.1\GenshinConsole.deps.json
+C:\Users\Рахитос\Desktop\GenshinConsole\bin\Debug\netcoreapp3.1\GenshinConsole.runtimeconfig.json
+C:\Users\Рахитос\Desktop\GenshinConsole\bin\Debug\netcoreapp3.1\GenshinConsole.runtimeconfig.dev.json
+C:\Users\Рахитос\Desktop\GenshinConsole\bin\Debug\netcoreapp3.1\GenshinConsole.dll
+C:\Users\Рахитос\Desktop\GenshinConsole\bin\Debug\netcoreapp3.1\GenshinConsole.pdb
+C:\Users\Рахитос\Desktop\GenshinConsole\obj\Debug\netcoreapp3.1\GenshinConsole.dll
+C:\Users\Рахитос\Desktop\GenshinConsole\obj\Debug\netcoreapp3.1\GenshinConsole.pdb
+C:\Users\Рахитос\Desktop\GenshinConsole\obj\Debug\netcoreapp3.1\GenshinConsole.genruntimeconfig.cache
